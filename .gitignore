@@ -6,3 +6,5 @@ Dockerfile
 .dockerignore
 __pycache__/
 credentials/ 
+.DS_Store
+.gitignore
