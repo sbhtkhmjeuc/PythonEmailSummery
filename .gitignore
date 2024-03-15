@@ -1,0 +1,8 @@
+.env
+Tests/
+CodeArchive/
+token.pickle
+Dockerfile
+.dockerignore
+__pycache__/
+credentials/ 
